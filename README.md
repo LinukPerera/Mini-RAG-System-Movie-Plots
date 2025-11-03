@@ -19,7 +19,7 @@ A **production-ready Retrieval-Augmented Generation (RAG)** system for answering
 
 ### Prerequisites
 
-* Python **3.8+**
+* Python **3.11.9+**
 * **Gemini API key** (get one free at [Google AI Studio](https://aistudio.google.com/app/apikey))
 
 ---
